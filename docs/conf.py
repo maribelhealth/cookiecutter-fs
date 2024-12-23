@@ -41,8 +41,8 @@ source_suffix = {
 master_doc = "index"
 
 # General information about the project.
-project = "Cookiecutter Django"
-copyright = f"2013-{now.year}, Daniel Roy Greenfeld"
+project = "Cookiecutter FS"
+copyright = f"2024-{now.year}, Maribel Health"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

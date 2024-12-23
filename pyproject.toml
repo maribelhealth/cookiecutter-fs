@@ -1,7 +1,7 @@
 [project]
-name = "cookiecutter-django"
+name = "cookiecutter-fs"
 version = "2024.12.20"
-description = "A Cookiecutter template for creating production-ready Django projects quickly."
+description = "A Cookiecutter template for creating production-ready fullstack projects quickly."
 readme = "README.md"
 keywords = [
   "cookiecutter",
@@ -13,6 +13,7 @@ keywords = [
 license = { text = "BSD" }
 authors = [
   { name = "Daniel Roy Greenfeld", email = "pydanny@gmail.com" },
+  { name = "Claudio Souza", email = "claudio.souza@maribelhealth.com" },
 ]
 requires-python = ">=3.12,<3.13"
 classifiers = [
@@ -48,7 +49,7 @@ dependencies = [
   "tox==4.21.2",
   "tox-uv>=1.11.2",
 ]
-urls = { Repository = "https://github.com/cookiecutter/cookiecutter-django" }
+urls = { Repository = "https://github.com/maribelhealth/cookiecutter-fs" }
 
 [dependency-groups]
 docs = [
